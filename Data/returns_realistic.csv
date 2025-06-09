@@ -1,0 +1,16 @@
+return_id,order_id,product_id,return_date,reason
+1,37,7,2025-03-29,Defective
+2,5,3,2025-02-28,No longer needed
+3,40,18,2025-05-24,No longer needed
+4,16,17,2025-03-23,Wrong item
+5,98,6,2025-05-26,Defective
+6,54,10,2025-01-18,No longer needed
+7,67,5,2025-03-29,Wrong item
+8,69,4,2025-04-19,Late delivery
+9,82,18,2024-12-07,Late delivery
+10,95,9,2025-05-06,No longer needed
+11,57,12,2025-05-12,Wrong item
+12,21,4,2025-05-29,Defective
+13,49,13,2025-06-03,Late delivery
+14,18,18,2025-05-01,No longer needed
+15,46,16,2025-04-09,Late delivery

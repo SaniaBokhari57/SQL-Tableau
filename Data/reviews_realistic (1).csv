@@ -1,0 +1,61 @@
+review_id,customer_id,product_id,rating,review_date,comments
+1,14,16,4,2025-01-28,"Could be better, but overall okay."
+2,21,16,1,2025-03-04,Using it daily—no complaints.
+3,20,5,4,2024-12-20,Excellent quality and fast delivery!
+4,40,7,1,2025-01-08,Late delivery but good product.
+5,31,13,1,2025-05-06,"Could be better, but overall okay."
+6,5,3,4,2024-12-24,Excellent quality and fast delivery!
+7,24,2,1,2025-01-25,Loved the packaging and the experience.
+8,1,9,3,2024-12-24,"Not what I expected, returning it."
+9,10,19,3,2025-03-21,"Not what I expected, returning it."
+10,7,14,4,2025-03-30,Late delivery but good product.
+11,25,6,3,2025-04-15,Great customer service and support.
+12,42,14,2,2025-01-01,Using it daily—no complaints.
+13,46,5,5,2025-05-06,Late delivery but good product.
+14,9,7,2,2025-04-18,Using it daily—no complaints.
+15,23,13,4,2025-02-27,Using it daily—no complaints.
+16,25,8,2,2025-06-01,Using it daily—no complaints.
+17,14,19,1,2025-02-18,Great customer service and support.
+18,3,8,1,2025-01-07,"Satisfied with the purchase, would recommend."
+19,24,2,2,2025-05-01,"Not what I expected, returning it."
+20,40,10,5,2025-02-22,Product matched description perfectly.
+21,46,17,3,2025-02-24,Late delivery but good product.
+22,27,15,1,2025-01-05,"Could be better, but overall okay."
+23,43,18,4,2025-01-20,Loved the packaging and the experience.
+24,30,16,3,2025-03-01,Using it daily—no complaints.
+25,14,11,3,2025-02-07,Excellent quality and fast delivery!
+26,3,2,2,2025-06-02,Late delivery but good product.
+27,1,10,1,2025-03-14,"Satisfied with the purchase, would recommend."
+28,5,14,2,2024-12-30,Loved the packaging and the experience.
+29,26,18,2,2025-02-10,Using it daily—no complaints.
+30,13,11,5,2025-03-02,Product matched description perfectly.
+31,39,3,3,2025-04-04,Late delivery but good product.
+32,35,15,3,2025-04-05,Amazing value for money!
+33,2,17,1,2024-12-19,"Not what I expected, returning it."
+34,24,3,2,2025-03-06,"Could be better, but overall okay."
+35,23,7,2,2025-04-28,Amazing value for money!
+36,44,10,3,2025-01-11,"Could be better, but overall okay."
+37,25,9,4,2025-01-29,Late delivery but good product.
+38,46,8,1,2024-12-03,Amazing value for money!
+39,36,3,1,2025-05-13,Using it daily—no complaints.
+40,32,15,1,2025-04-17,Great customer service and support.
+41,32,15,4,2025-02-28,Product matched description perfectly.
+42,6,3,2,2025-04-02,Product matched description perfectly.
+43,49,5,4,2025-03-02,"Not what I expected, returning it."
+44,29,20,1,2024-12-04,Great customer service and support.
+45,36,13,1,2025-01-14,"Satisfied with the purchase, would recommend."
+46,16,16,2,2025-01-29,"Satisfied with the purchase, would recommend."
+47,18,12,3,2024-12-25,Great customer service and support.
+48,7,18,3,2025-05-01,Loved the packaging and the experience.
+49,35,7,3,2025-04-04,Using it daily—no complaints.
+50,33,20,4,2025-01-30,"Could be better, but overall okay."
+51,41,9,3,2025-03-18,"Not what I expected, returning it."
+52,2,4,5,2025-03-31,Product matched description perfectly.
+53,12,14,2,2025-01-02,"Not what I expected, returning it."
+54,19,1,5,2025-02-23,"Could be better, but overall okay."
+55,28,2,1,2025-04-19,Great customer service and support.
+56,42,9,1,2025-04-27,Loved the packaging and the experience.
+57,23,8,5,2025-03-04,Amazing value for money!
+58,15,8,1,2024-12-20,"Could be better, but overall okay."
+59,20,11,2,2025-04-13,Late delivery but good product.
+60,41,16,3,2025-03-09,Loved the packaging and the experience.

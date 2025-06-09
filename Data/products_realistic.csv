@@ -1,0 +1,21 @@
+product_id,name,category,price,stock_qty
+1,Apple iPhone 14,Electronics,280.12,100
+2,Samsung Galaxy S23,Electronics,71.16,52
+3,Sony WH-1000XM5 Headphones,Electronics,409.09,79
+4,Nike Air Max 270,Clothing,109.57,87
+5,Adidas Ultraboost,Clothing,278.14,46
+6,Levi's 501 Jeans,Clothing,228.04,86
+7,IKEA Dining Table,Home,400.99,50
+8,Instant Pot Duo,Home,292.07,47
+9,Dyson V11 Vacuum,Home,100.1,33
+10,Lego Star Wars Set,Toys,26.16,94
+11,Barbie Dreamhouse,Toys,137.43,18
+12,Hot Wheels Track Set,Toys,54.01,26
+13,Fitbit Charge 5,Electronics,439.62,14
+14,Google Pixel 7,Electronics,422.81,99
+15,Amazon Echo Dot,Electronics,462.31,79
+16,North Face Jacket,Clothing,344.91,100
+17,Sony PlayStation 5 Controller,Electronics,267.04,76
+18,KitchenAid Mixer,Home,407.7,37
+19,UNO Card Game,Toys,448.57,85
+20,Crayola Art Set,Toys,414.38,63
