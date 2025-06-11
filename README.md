@@ -1,4 +1,4 @@
-# 📊 SQL & Tableau Retail Analytics Project
+# SQL & Tableau Retail Analytics Project
 
 Welcome to my SQL & Tableau project, where I performed **data cleaning, querying, and visualization** on a realistic retail dataset. This project uncovers actionable business insights across sales, returns, customer segments, and product performance.
 
@@ -12,7 +12,7 @@ Welcome to my SQL & Tableau project, where I performed **data cleaning, querying
 
 ---
 
-## 🧠 Key Business Questions Answered
+## Key Business Questions Answered
 
 | Category               | Business Question                                                                 |
 |------------------------|---------------------------------------------------------------------------------- |
@@ -37,6 +37,8 @@ All queries are available in the `/sql_queries/` folder.
 
 ## Tableau Dashboard
 
----
+Data was visualised in tableau.
+
+-- End --
 
 
